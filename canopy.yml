@@ -27,6 +27,6 @@ search:
         - commenting
         - tagging
 theme:
-  appearance: dark
+  appearance: light
   accentColor: purple
   grayColor: gray
